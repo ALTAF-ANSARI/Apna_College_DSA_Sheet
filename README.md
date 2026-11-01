@@ -29,7 +29,7 @@ The roadmap is divided into **34 days**, with related topics grouped into parts.
 
 - **Day 01 — Array (Part 1)** 🔄 6 Problems
 - **Day 02 — Array (Part 2)** 🔄 6 Problems
-- **Day 03 — Array (Part 3)** 🔄 2 Problems
+- **Day 03 — Array (Part 3)** 🔄 3 Problems
 - **Day 04 — Array (Part 4)**
 - **Day 05 — Array (Part 5)**
 
@@ -121,6 +121,7 @@ The roadmap is divided into **34 days**, with related topics grouped into parts.
 | 12 | 02 | Arrays — Part 2 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | `O(log(n × m))` time, `O(1)` space |
 | 13 | 03 | Arrays — Part 3 | [31. Next Permutation](https://leetcode.com/problems/next-permutation/) | Medium | `O(n)` time, `O(1)` space |
 | 14 | 03 | Arrays — Part 3 | [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | Medium | `O(n × m)` time, `O(n + m)` space |
+| 15 | 03 | Arrays — Part 3 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | `O(n)` time, `O(n)` auxiliary space |
 
 ---
 
@@ -150,7 +151,10 @@ Daily-DSA-Practice/
 │   │   ├── Next-Permutation/
 │   │   │   ├── README.md
 │   │   │   └── solution.cpp
-│   │   └── Set-Matrix-Zeroes/
+│   │   ├── Set-Matrix-Zeroes/
+│   │   │   ├── README.md
+│   │   │   └── solution.cpp
+│   │   └── Product-of-Array-Except-Self/
 │   │       ├── README.md
 │   │       └── solution.cpp
 │   ├── Day-04-Array-Part-4/
@@ -260,7 +264,7 @@ Understand → Analyze → Think → Solve → Optimize → Analyze Complexity �
 
 **Current Day:** Day 03 🔄
 
-**Problems Completed:** 14
+**Problems Completed:** 15
 
 **Primary Language:** C++
 
