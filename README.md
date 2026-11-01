@@ -147,7 +147,10 @@ Daily-DSA-Practice/
 │   │       ├── README.md
 │   │       └── solution.cpp
 │   ├── Day-03-Array-Part-3/
-│   │   └── Next-Permutation/
+│   │   ├── Next-Permutation/
+│   │   │   ├── README.md
+│   │   │   └── solution.cpp
+│   │   └── Set-Matrix-Zeroes/
 │   │       ├── README.md
 │   │       └── solution.cpp
 │   ├── Day-04-Array-Part-4/
