@@ -29,13 +29,13 @@ The roadmap is divided into **34 days**, with related topics grouped into parts.
 
 - **Day 01 — Array (Part 1)** 🔄 6 Problems
 - **Day 02 — Array (Part 2)** 🔄 6 Problems
-- **Day 03 — Array (Part 3)** 🔄 4 Problems
+- **Day 03 — Array (Part 3)** 🔄 5 Problems
 - **Day 04 — Array (Part 4)**
 - **Day 05 — Array (Part 5)**
 
 ### 🔤 Strings
 
-- **Day 06 — Strings (Part 1)** 🔄 1 Problem
+- **Day 06 — Strings (Part 1)**
 - **Day 07 — Strings (Part 2)**
 
 ### 🔎 Binary Search
@@ -123,7 +123,7 @@ The roadmap is divided into **34 days**, with related topics grouped into parts.
 | 14 | 03 | Arrays — Part 3 | [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | Medium | `O(n × m)` time, `O(n + m)` space |
 | 15 | 03 | Arrays — Part 3 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | `O(n)` time, `O(n)` auxiliary space |
 | 16 | 03 | Arrays — Part 3 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | `O(n log n)` time, `O(n)` space |
-| 17 | 06 | Strings — Part 1 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | `O(n)` average time, `O(min(n, k))` space |
+| 17 | 03 | Arrays — Part 3 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | `O(n)` average time, `O(min(n, k))` space |
 
 ---
 
@@ -159,7 +159,10 @@ Daily-DSA-Practice/
 │   │   ├── Product-of-Array-Except-Self/
 │   │   │   ├── README.md
 │   │   │   └── solution.cpp
-│   │   └── Merge-Intervals/
+│   │   ├── Merge-Intervals/
+│   │   │   ├── README.md
+│   │   │   └── solution.cpp
+│   │   └── Longest-Substring-Without-Repeating-Characters/
 │   │       ├── README.md
 │   │       └── solution.cpp
 │   ├── Day-04-Array-Part-4/
@@ -167,9 +170,6 @@ Daily-DSA-Practice/
 │
 ├── Strings/
 │   ├── Day-06-Strings-Part-1/
-│   │   └── Longest-Substring-Without-Repeating-Characters/
-│   │       ├── README.md
-│   │       └── solution.cpp
 │   └── Day-07-Strings-Part-2/
 │
 ├── Binary-Search/
@@ -270,7 +270,7 @@ Understand → Analyze → Think → Solve → Optimize → Analyze Complexity �
 
 **Roadmap:** 34 Days
 
-**Current Day:** Day 06 🔄
+**Current Day:** Day 03 🔄
 
 **Problems Completed:** 17
 
