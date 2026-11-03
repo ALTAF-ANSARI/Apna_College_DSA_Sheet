@@ -30,7 +30,7 @@ The roadmap is divided into **34 days**, with related topics grouped into parts.
 - **Day 01 — Array (Part 1)** 🔄 6 Problems
 - **Day 02 — Array (Part 2)** 🔄 6 Problems
 - **Day 03 — Array (Part 3)** 🔄 5 Problems
-- **Day 04 — Array (Part 4)**
+- **Day 04 — Array (Part 4)** 🔄 1 Problem
 - **Day 05 — Array (Part 5)**
 
 ### 🔤 Strings
@@ -124,6 +124,7 @@ The roadmap is divided into **34 days**, with related topics grouped into parts.
 | 15 | 03 | Arrays — Part 3 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | `O(n)` time, `O(n)` auxiliary space |
 | 16 | 03 | Arrays — Part 3 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | `O(n log n)` time, `O(n)` space |
 | 17 | 03 | Arrays — Part 3 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | `O(n)` average time, `O(min(n, k))` space |
+| 18 | 04 | Arrays — Part 4 | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Medium | `O(n × m)` time, `O(1)` auxiliary space |
 
 ---
 
@@ -166,6 +167,9 @@ Daily-DSA-Practice/
 │   │       ├── README.md
 │   │       └── solution.cpp
 │   ├── Day-04-Array-Part-4/
+│   │   └── Spiral-Matrix/
+│   │       ├── README.md
+│   │       └── solution.cpp
 │   └── Day-05-Array-Part-5/
 │
 ├── Strings/
@@ -270,9 +274,9 @@ Understand → Analyze → Think → Solve → Optimize → Analyze Complexity �
 
 **Roadmap:** 34 Days
 
-**Current Day:** Day 03 🔄
+**Current Day:** Day 04 🔄
 
-**Problems Completed:** 17
+**Problems Completed:** 18
 
 **Primary Language:** C++
 
